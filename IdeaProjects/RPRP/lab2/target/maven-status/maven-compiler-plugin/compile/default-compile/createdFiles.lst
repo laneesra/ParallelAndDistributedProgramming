@@ -1,0 +1,9 @@
+GroupingComparatorClass.class
+ReduceSideJoin.class
+FlightsRecord.class
+AirportsMapper.class
+FlightsMapper.class
+AirportsRecord.class
+HashPartitioner.class
+JoinReducer.class
+AirportIdKey.class

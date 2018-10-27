@@ -1,0 +1,3 @@
+ru/bmstu/hadoop/WordMapper.class
+ru/bmstu/hadoop/WordReducer.class
+ru/bmstu/hadoop/WordCountApp.class
